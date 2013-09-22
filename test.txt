@@ -3,3 +3,4 @@ hello,this is test.txt
 ok
 
 finish
+local
