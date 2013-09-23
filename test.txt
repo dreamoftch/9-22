@@ -1,0 +1,6 @@
+hello,this is test.txt
+remote1
+ok
+
+finish
+local1
